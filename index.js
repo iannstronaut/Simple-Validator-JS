@@ -1,4 +1,4 @@
-import sv from "./src/v.js";
+import sv from "./src/sv.js";
 
 const UserSchema = sv.Schema({
   username: sv
